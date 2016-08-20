@@ -1,0 +1,6 @@
+# tm_updated_date extension
+comment = 'updated date base table and functions'
+default_version = '0.0.1'
+relocatable = true
+encoding = 'UTF-8'
+requires = 'tm_postgres_basics'
